@@ -128,7 +128,4 @@
     <project name="rdkcentral/rdkb-emu-hal" remote="github" path="rdkb/devices/rdkbemu/hal"/>
     <project name="rdkcentral/rdkb-halif-platform" remote="github" path="rdkb/components/opensource/ccsp/rdkb-halif-platform"/>
     <project name="rdkcentral/zilker-sdk" remote="github" path="components/opensource/zilker-sdk"/>
-    <project name="nlrangaiah1/meta-cmf-filogic" remote="github" path="meta-cmf-filogic" revision="3f114c243c68cc0ad45d2cc52bd13bc98f419ccb"/>
-    <project name="sankarkumarS/Visionfive2-Board-Bringup" remote="github" path="meta-cmf-starfive"/>
-    <project name="sankarkumarS/Visionfive2-Board-Bringup" remote="github" path="meta-starfive"/>
 </manifest>
