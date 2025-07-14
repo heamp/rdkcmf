@@ -5,7 +5,7 @@
     <remote name="github" fetch="https://github.com" review=""/>
     <remote name="yocto" fetch="http://git.yoctoproject.org/git" review=""/>
     <remote name="openembedded" fetch="https://git.openembedded.org" review=""/>
-    <default remote="cmf" revision="hackathon2025/BoardMasters" sync-j="2"/>
+    <default remote="cmf" revision="rdkb-2025q1-kirkstone" sync-j="2"/>
     <include name="oe-layers.xml"/>
     <project name="components/opensource/OMI"/>
     <project name="components/opensource/gdbus-client"/>
@@ -127,5 +127,4 @@
     <project name="rdkcentral/meta-rdk-wan" remote="github" path="meta-rdk-wan"/>
     <project name="rdkcentral/rdkb-emu-hal" remote="github" path="rdkb/devices/rdkbemu/hal"/>
     <project name="rdkcentral/rdkb-halif-platform" remote="github" path="rdkb/components/opensource/ccsp/rdkb-halif-platform"/>
-    <project name="rdkcentral/zilker-sdk" remote="github" path="components/opensource/zilker-sdk"/>
 </manifest>
